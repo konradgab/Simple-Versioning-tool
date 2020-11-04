@@ -1,4 +1,4 @@
-## Zadanie 2. Great Versioning Tool (gvt)
+##Great Versioning Tool (gvt)
 
 Należy napisać system kontroli wersji plików - (bardzo) uproszczony GIT.
 
